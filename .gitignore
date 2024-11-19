@@ -1,0 +1,5 @@
+# Ignore environment files
+.env
+
+# Ignore node_modules (for Node.js projects)
+login-process.js
